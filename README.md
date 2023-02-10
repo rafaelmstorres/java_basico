@@ -1,2 +1,1 @@
-# java_basico
-Curso Básico de Java
+Curso básico de Java para quem deseja iniciar a programar.
